@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered to the most honourable House of Lords, against repealing the act for relief of creditors, by making compositions with their debtors, in case two thirds in number and value do agree</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92273</idno>
+            <idno type="STC">Wing R561C</idno>
+            <idno type="STC">ESTC R42547</idno>
+            <idno type="EEBO-CITATION">36282292</idno>
+            <idno type="OCLC">ocm 36282292</idno>
+            <idno type="VID">150206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150206)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2236:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered to the most honourable House of Lords, against repealing the act for relief of creditors, by making compositions with their debtors, in case two thirds in number and value do agree</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>between 1694 and 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing (2nd ed.).</note>
+                  <note>Endorsed title: Reasons against repealing the act for the relief of creditors, &amp;c.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debt relief --  England.</term>
+               <term>Debtor and creditor --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:150206:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 45 -->
+            <head>REASONS Humbly Offered to the Moſt Honourable Houſe of LORDS, Againſt Repealing the Act for Relief of Creditors, by Making Compoſitions with their Debtors, in Caſe Two Thirds in Number and Value do Agree.</head>
+            <p>MAny of the moſt Eminent Merchants and Traders of <hi>London,</hi> Pe<g ref="char:EOLhyphen"/>titioned this moſt Honourable Houſe ſeveral Seſſions ſucceſſively for the ſaid Act, (which is now Endeavoured to be Repealed) and others Certified under their Hands as follows, the Original of which Certificates was about <hi>April,</hi> 1694. delivered to the Right Reverend the preſent Biſhop of <hi>Salisbury.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>I</hi> William Popple <hi>do Certifie, upon many Years Knowledge and Experience, that in</hi> France <hi>the Majority of Creditors obliges the Minority to ſubmit to the ſame Terms that they have accepted of.</hi>
+               </item>
+               <item>
+                  <hi>I</hi> William Cranmer <hi>do Certifie, that I have reſided at</hi> Antwerp, <hi>and that if any Perſon fail there, two Thirds of the Creditors in Value agreeing with the ſaid Perſon, doth Oblige the other Third to accept of the ſame Agreement, and that at</hi> Amſterdam <hi>it is much after the ſame rate, I having dwelt in</hi> Holland <hi>many Years.</hi>
+               </item>
+               <item>
+                  <hi>I</hi> Charles Peers <hi>do Certifie, that when I lived in</hi> Spain, <hi>have Experienced the Major Commands the Minor in the above Caſes.</hi>
+               </item>
+               <item>
+                  <hi>I</hi> Thomas Morice <hi>do Certifie the ſame as Mr.</hi> Peers.</item>
+               <item>
+                  <hi>I</hi> Obadiah Sedgwick <hi>have been Concluded by the Majority of Creditors in Agree<g ref="char:EOLhyphen"/>ments made at</hi> Amſterdam <hi>with my Debtor there, which I ſubmitted unto in Con<g ref="char:EOLhyphen"/>formity to the Cuſtom of that Countrey.</hi>
+               </item>
+               <item>
+                  <hi>I</hi> Ralph Lee <hi>do Certifie, that when I lived in</hi> Italy, <hi>have Experienced the Ma<g ref="char:EOLhyphen"/>jor Commands the Minor in the above Caſes.</hi>
+               </item>
+               <item>
+                  <hi>I</hi> Samuel Watts <hi>do Certifie, that when I lived in</hi> Spain, <hi>the Majority of Credi<g ref="char:EOLhyphen"/>tors obligeth the others to Comply with what Compoſitions are made by the former.</hi>
+               </item>
+               <item>
+                  <hi>I underwritten do declare, that in</hi> Holland <hi>is a Cuſtom, when two Third parts of the Creditors do agree, the others are Obliged to follow the ſame,</hi> John Lieſtinck, <hi>J. V. D.</hi>
+               </item>
+               <item>
+                  <hi>I</hi> P. Raoul <hi>do Certifie, that I have lived in</hi> France <hi>and</hi> Holland, <hi>and that the Cuſtom of both thoſe Countreys do Oblige all the Creditors of Perſons failing, to abide by the Agreement of the Majority in Value of the Creditors.</hi>
+               </item>
+            </list>
+            <pb n="2" facs="tcp:150206:2"/>
+            <!-- PDF PAGE 46 -->
+            <p>It may reaſonably be be believed, did not <hi>England</hi> more unmeaſurably abound than Forreign Trading Nations, with Gentlemen of the Robe and Quill, Com<g ref="char:EOLhyphen"/>miſſioners of Bankrupts, Clerks, and Solicitors, whoſe Fees and Perquiſites in<g ref="char:EOLhyphen"/>creaſe as Suits and Proceedings multiply, Endeavours had not been uſed for ha<g ref="char:EOLhyphen"/>ving the ſaid Act repealed, which is found by the Experience of many to be good and beneficial, as appears by the Petition of ſeveral of the aforeſaid Mer<g ref="char:EOLhyphen"/>chants, upon which a Hearing was Ordered to be at the Barr of this moſt Ho<g ref="char:EOLhyphen"/>nourable Houſe againſt the ſaid Act of Repealing, by which ſaid<g ref="char:punc">▪</g> Petition is plainly ſhewed,</p>
+            <p>
+               <hi>That by Vertue of Agreements and Compoſitions, already made and perfected pur<g ref="char:EOLhyphen"/>ſuant to the aforeſaid Act, many have received conſiderable Sums of Money, which, without the ſaid Act, they were never like to receive, by reaſon of the Refuſal of ſome few diſſenting Creditors, and the Incapacity of Executors, Adminiſtrators, Guardians and Truſtees to Compound.</hi>
+            </p>
+            <p>
+               <hi>That much more Money may be received by Agreements and Compoſitions now on foot, which are already ſubſcribed and ſealed by ſeveral Creditors, their Executors, Adminiſtrators, Guardians, and Truſtees by Vertue of the ſaid Act, and might be perfected in ſome reaſonable time.</hi>
+            </p>
+            <p>
+               <hi>That the beſt of Laws have been, and may be abuſed, and if this Act for that reaſon ſhould be repealed, all the good Laws in the Statute-Book may for the ſame reaſon be repealed; and by repealing this Act, not only the Power given to Exe<g ref="char:EOLhyphen"/>cutors, Adminiſtrators, Guardians and Truſtees to compound, but many Agreements and Compoſitions now on foot will be made void, and much Compoſition Money ut<g ref="char:EOLhyphen"/>terly loſt.</hi>
+            </p>
+            <p>'Tis believed, that not any Compoſition or Agreement is made, but what ſome Lawyer, Attorney, Clerk or Solicitor, had a hand in the making thereof for his Client, and if any Fraud be committed, it may be attributed rather to the Knavery of the Perſon employed than the Client, or that the Perſons of<g ref="char:EOLhyphen"/>fending are not Exemplarily puniſhed to deter others from committing the like Offence, and if the Law be deficient in any point, it may be, in that there is not ſome ſevere penalty to be inflicted on ſuch as give their Clients Evil Coun<g ref="char:EOLhyphen"/>cil or Advice. For although the Penalties and Puniſhments are very ſevere againſt all Compounding Greditors, as well as their Debtors guilty of any Fraud; yet there is not any hath been Convicted, and until they be upon a fair Tryal, it is more charitable to believe, rather the Proſecutor than the Proſecuted to be in the wrong, and if after the Conviction of Criminals, there is an Equity lodged in the Breaſt of his Majeſty and his Judges with Mercy, to moderate the <hi>Summum Jus</hi> which is <hi>Summa Injuria,</hi> why ſhould an Act be repealed before any Perſons criminated be duly convicted of the Crimes imputed to them or the Innocent ſuffer for the Nocent.</p>
+            <p>The Act only directs the Party or Parties to be Summoned, at whoſe Suit or Suits, the Debtor is detained in Cuſtody or Priſon, which might be done with little Trouble or Charge, but the Judges obliging the Debtor to ſummons all the diſſenting Creditors, tho' at great diſtance from one another, which is a thing the Priſoner not being able to do himſelf, being under ſtra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<g ref="char:punc">▪</g> Con<g ref="char:EOLhyphen"/>finement, was therefore put to a great deal of Trouble and Charges, and forced to employ whom he could get cheapeſt to ſerve the Summonſes, and if ſuch Meſſengers to ſave themſelves the Trouble of ſerving many, or upon any other Account were Tardy or Negligent, which way could the poor Man confined in a Priſon help it.</p>
+            <p>There is little Doubt to be made, but that the Number of Perſons which abſconded, and ſuch as lifted themſelves for Souldiers, to avoid Arreſts, were far greater than the Number of Perſons arreſted or in Priſon, and few or no Compoſitions or Agreements with any Debtors, other than ſuch as were Ar<g ref="char:EOLhyphen"/>reſted
+<pb n="3" facs="tcp:150206:2"/>
+               <!-- PDF PAGE 46 -->or in Priſon came before the Judges, ſo that ſeveral thouſand Agree<g ref="char:EOLhyphen"/>ments or Compoſitions may be made, and Complyed with, of which the Judg<g ref="char:EOLhyphen"/>es can give no account: And if an Exact Account were required, of what Priſoners they have Diſcharged, 'tis believed not Five in a Hundred will be made appear to be fraudulent; and ſhall Ninety five fair and honeſt Com<g ref="char:EOLhyphen"/>poſitions or Agreements ſuffer for Five, ſeeing the Perſons diſcharged upon Fraudulent Compoſitions or Agreements, are ſubject and lyable to be Arreſted again for the ſame Debts, beſides other Penalties they are to ſuffer for the ſame Offence.</p>
+            <p>Some Judges now refuſe to grant Summonſes, and others have granted ſome, which have been duly ſerved, at the Exceſſive Coſts and Trouble of the Priſoners, yet refuſe to do any thing for the Priſoners Diſcharge, without ſhewing any other Cauſe than that the Act will be repealed, altho' all Agree<g ref="char:EOLhyphen"/>ments and Compoſitions made before the Time limited for it's Repealing are to ſtand good, and if they will not diſcharge Priſoners upon ſuch Agreements or Compoſitions before the Act is repealed, what may honeſt Debtors ex<g ref="char:EOLhyphen"/>pect in caſe any ſhould be arreſted hereafter upon Agreements or Compo<g ref="char:EOLhyphen"/>ſitions fairly made, according to the true Intent and Meaning of the Act, and which none of their Creditors have yet queſtioned.</p>
+            <p>The Loſſes many have ſuſtained by the late War, and Caſualties of Fire, <hi>&amp;c.</hi> which could not be avoided, and the poor Souldiers and Seamen disbanded are real Objects of Charity, to plead for the continuance of the ſaid Acts, and none bur Goalers, Attornies, Solicitors and their Litigious Clients, would keep poor inſolvent Debtors ſtarving in Priſon, who being at Liberty may get Bu<g ref="char:EOLhyphen"/>ſineſs or Employment, to maintain themſelves, and keep their Wives and Numerous Children from being burthenſome to the Pariſhes, and to pay and ſatisfie their Creditors, all or ſome conſiderable part of their Debts, but this Act hath lopt off many Suits, and therefore the Gentlemen of the Robe and Quil make it their Buſineſs to have it damm'd and ſtigmatized, leaſt ano<g ref="char:EOLhyphen"/>ther more Beneficial to the Publick ſhould be grafted thereon.</p>
+            <p>
+               <hi>It is therefore to be Hoped, the Premiſes Conſidered, this moſt Honou<g ref="char:EOLhyphen"/>rable Houſe may think fit to Continue the ſaid Act, and make the Execution thereof more Eaſie and Beneficial to both Creditors and Debtors, no Agreement or Compoſition being binding by Vertue of the ſaid Act, but ſuch as are made, and ſubſcribed, and ſealed without Fraud.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:150206:3"/>
+            <!-- PDF PAGE 47 -->
+            <p>REASONS Againſt Repealing the Act for the Relief of Cre<g ref="char:EOLhyphen"/>ditors, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
